@@ -6,7 +6,7 @@
         "$load": {
           "type": "$network.request",
           "options": {
-            "url": "https://graph.facebook.com/v2.6/171302139596632/posts/?fields=message,permalink_url,created_time,name&limit=100&access_token=EAACEdEose0cBAHyNgqtPbafDteEKQB1jmcrtRKFb86EehMBomOZCwYPsZCoVaAVTYKFTezAA8sLY2bGypjEZAmFGjSsZC58xHZBoWhxX4B82t0WXyDFdTcwhumGtVhFrxTm9UPp2J188pZBorU7kJFLkyWZC7PhE6FLEci5yLgPxqcQfFyoBNJgnrNlle0eZB9sZD"
+            "url": "https://raw.githubusercontent.com/lessthanzer0h/REVS/master/REVS7.json"
           },
           "success": {
             "type": "$render"
