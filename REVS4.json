@@ -1,0 +1,39 @@
+{
+  "$jason": {
+    "head": {
+      ...
+    },
+    "body": {
+      "sections": [{
+        "items": [{
+          "type": "label",
+          "text": "This is row 1",
+          "style": {
+            "font": "HelveticaNeue",
+            "size": "20",
+            "color": "#ff0000",
+            "padding": "10"
+          }
+        }, {
+          "type": "label",
+          "text": "This is row 2",
+          "style": {
+            "font": "HelveticaNeue",
+            "size": "20",
+            "color": "#ff0000",
+            "padding": "10"
+          }
+        }, {
+          "type": "label",
+          "text": "This is row 3",
+          "style": {
+            "font": "HelveticaNeue",
+            "size": "20",
+            "color": "#ff0000",
+            "padding": "10"
+          }
+        }]
+      }]
+    }
+  }
+}
