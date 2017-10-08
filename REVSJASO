@@ -53,6 +53,13 @@
               },
               "components": [
                 {
+                "type": "$require",
+                "options": {
+                "profiles": "https://graph.facebook.com/v2.6/171302139596632/posts/?fields=message,permalink_url,created_time,name&limit=100&access_token=EAACBfvvCu0IBAMDYDQaQdPhmwSyk1iDA9VRKvtZCgiVHFIDngg1uV180Af5WphxVe3MXcsqIw8MpOZAZBdohZCC99lZCE0KglrVVY1ZBXgSNBgPAgMAQhETNHfCdzwaGSJLMeDRBMyZB4KlVkwHKjBQkWVvdbhjTOcZArWL18ukSVxRqbRsDk8ov1QoTPd982IEZD",
+              },
+             "success": {
+                  "type": "$render"
+              }
                   "type": "label",
                   "text": "Send yourself Documentation",
                   "class": "bold",
