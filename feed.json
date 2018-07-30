@@ -1,64 +1,538 @@
 {
-    "feed": [
-         {
-            "message": "Booze bus on <b><ins>color</ins></b> st after winterfold road, infront of sports ovals, heading north",
-            "created_time": "2018-05-27T02:04:18+0000",
-            "permalink_url": "https://www.facebook.com/perthrbt/posts/642177849469093",
-            "id": 1,
-         },
-         {
-            "message": "Booze bus on Garden St just after Nicholson Road roundabout going towards Southern River.",
-            "created_time": "2018-05-26T05:56:37+0000",
-            "permalink_url": "https://www.facebook.com/perthrbt/posts/641797632840448",
-            "id": 2,
-         },
-         {
-            "message": "2 hand helds on Wanneroo Road heading north just before Cape Street (yokine)",
-            "created_time": "2018-05-26T05:55:36+0000",
-            "permalink_url": "https://www.facebook.com/perthrbt/posts/641797392840472",
-            "id": 3,
-         },
-         {
-            "message": "Speed camera northbound on mitchell freeway just before shenton ave sitting in the bloody bushes \ud83d\ude12",
-            "created_time": "2018-05-25T12:51:04+0000",
-            "permalink_url": "https://www.facebook.com/perthrbt/posts/641476642872547",
-            "id": 4,
-         },
-         {
-            "message": "Booze bus Armadale road, before Haynes heading away from Armadale",
-            "created_time": "2018-05-25T11:19:09+0000",
-            "permalink_url": "https://www.facebook.com/perthrbt/posts/641448162875395",
-            "id": 5,
-         },
-         {
-            "message": "OAKFORD\n5.14pm\nSpeed camera on Thomas Road heading towards Kwinana Freeway just before King Road in Oakford. It\u2019s a 90km/hr zone.\n\n4.27pm\nSpeed camera Thomas Rd in Oakford before King Road.",
-            "created_time": "2018-05-24T09:26:16+0000",
-            "permalink_url": "https://www.facebook.com/perthrbt/posts/640955072924704",
-            "id": 6,
-         },
-         {
-            "message": "WEST PERTH - PATROLS\n4.59pm\nCouple cops on bikes checking for people on their phones while driving in the West Perth area. Drive safely! \ud83d\ude0a",
-            "created_time": "2018-05-24T09:25:54+0000",
-            "permalink_url": "https://www.facebook.com/perthrbt/posts/640954972924714",
-            "id": 7,
-         },
-         {
-            "message": "Multinova Hepburn ave towards Reid highway after marangaroo rd",
-            "created_time": "2018-05-23T12:05:18+0000",
-            "permalink_url": "https://www.facebook.com/perthrbt/posts/640553849631493",
-            "id": 8,
-         },
-         {
-            "message": "Booze bus Thomas rd kwinana",
-            "created_time": "2018-05-23T11:08:12+0000",
-            "permalink_url": "https://www.facebook.com/perthrbt/posts/640535486299996",
-            "id": 9,
-         },
-         {
-            "message": "Bus set up both sides of Farrell rd in Stratton .",
-            "created_time": "2018-05-23T07:28:29+0000",
-            "permalink_url": "https://www.facebook.com/perthrbt/posts/640468782973333",
-            "id": 10,
-         }
-    ]
+   "data": [
+      {
+         "message": "RIVERTON\n9:49AM\nffc leach highway <b><ins>color</ins></b> west around riverton\nhidden in Bush .",
+         "created_time": 1532915356,
+         "full_picture": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/38014728_1910533775673451_228780499697401856_n.png?_nc_cat=0&oh=4c939507e98e5872ad8cdcf30e3a4b3f&oe=5BD48962",
+         "id": "1434695146643341_1753866581392861"
+      },
+      {
+         "message": "RIVERTON\n9:19AM\nffc leach highway heading west around riverton\nhidden in Bush .",
+         "created_time": 1532913836,
+         "id": "1434695146643341_1753840238062162"
+      },
+      {
+         "message": "GREENWOOD - LONG GONE \n8.20am\nHandhelds on Coolibah Drive opposite Greenwood Senior High School nabbing both sides. \n\n*Admin assumes they\u2019re gone now and apologies for the delays in posting.",
+         "created_time": 1532913714,
+         "id": "1434695146643341_1753837954729057"
+      },
+      {
+         "message": "FREMANTLE\n9:13AM\nFFC being set up for traffic heading towards Fremantle",
+         "created_time": 1532913228,
+         "id": "1434695146643341_1753830358063150"
+      },
+      {
+         "message": "BALGA\n8.42am\nTwo cops with handhelds corner of Balga Ave and Finchley Crescent in the 40km school zone.",
+         "created_time": 1532911529,
+         "full_picture": "https://scontent.xx.fbcdn.net/v/t1.0-9/37940960_1753795848066601_2405701355327979520_n.jpg?_nc_cat=0&oh=d5ad684004bbfddebf973397fc2829f7&oe=5BD38C6F",
+         "id": "1434695146643341_1753795971399922"
+      },
+      {
+         "message": "EAST PERTH - POSSIBLE SPEED CAMERA\n8.15am\nPossible camera Graham Farmer Fwy under the East Parade underpass. Anybody able to confirm for certain?",
+         "created_time": 1532910007,
+         "id": "1434695146643341_1753771701402349"
+      },
+      {
+         "message": "OSBORNE PARK\n8.09am\nMotorbike cop with a handheld on Hutton Street before Main Street heading east in the 40km/hr school zone at Osborne Park Primary School.",
+         "created_time": 1532909582,
+         "id": "1434695146643341_1753764048069781"
+      },
+      {
+         "message": "YANGEBUP - ON THE MOVE \n8.05am\nBooze bus traveling east Spearwood Ave maybe to set up on Beeliar Drive. Where will it set up?",
+         "created_time": 1532909339,
+         "id": "1434695146643341_1753759298070256"
+      },
+      {
+         "message": "BURSWOOD - TRAILER CAMERA STILL THERE 30/7/2018 \n7.45am\nSpeed camera trailer Graham Farmer Fwy after the Victoria Park Drive turn off heading eastbound. \n\n*Admin assumes this trailer speed camera will remain for up to another 2 days or maybe less. It was set up three days ago.",
+         "created_time": 1532908499,
+         "full_picture": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/37984097_1753741678072018_6517806080783810560_n.jpg?_nc_cat=0&oh=fc55823acbcab8ce1fb43fc524f656d1&oe=5BD97B51",
+         "id": "1434695146643341_1753741944738658"
+      },
+      {
+         "message": "BURSWOOD - TRAILER CAMERA STILL THERE 30/7/2018 \n7.45am\nSpeed camera trailer Graham Farmer Fwy after the Victoria Park Drive turn off heading eastbound. .\n\n*Admin assumes this trailer speed camera will remain for up to another 2 days or maybe less. It was set up three days ago.",
+         "created_time": 1532908122,
+         "id": "1434695146643341_1753735724739280"
+      },
+      {
+         "message": "***DAILY LOCATIONS - MONDAY 30 JULY 2018***\n\nGood morning everyone!! Here are Monday\u2019s listed speed camera locations. PLEASE READ THIS ENTIRE POST FOR USEFUL INFO!!! IT MAY HELP YOU AVOID GETTING INFRINGED!! \n\nThe attached list is a useful guide so make good use of it and share the list with everyone you know. The more of you who view the list on a daily basis the more beneficial it will be to everyone. Note the following: \n\n- There are a total of 50 locations listed today with a total of 10 school zones.\n\n- Be on the look out for the early morning and occasional late night double speed camera set up. They set up as early as 4.30am and late nights tend to stay until 12.10am from past experience. These set up locations don\u2019t necessarily align with the attached list so be mindful of that. \n\n- Also look out for possible early set ups on rural roads.\n\n- Be advised that you may still come across speed cameras that aren't on the attached list during the day, particularly on rural roads. The list is a fantastic guide for many speed camera locations but isn't completely exclusive. \n\n- Keep your eyes peeled for any confirmed speed camera sightings, traffic police activity, crashes or other traffic alerts and message them to us directly. We greatly appreciate your reports and rely on YOUR sightings to inform everyone else. \n\n- Having said that, enjoy your day, drive safely and don't get pinged by any speed traps! Let's commence the week without incurring any infringements!\n\n*These locations can be found from the link below: \n\nhttps://www.police.wa.gov.au/Traffic/Cameras/Camera-locations",
+         "created_time": 1532898107,
+         "full_picture": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/38012318_1753553871424132_3830011797440561152_n.jpg?_nc_cat=0&oh=e68ee95af53056e56b5f4d7b586008dc&oe=5BD8E180",
+         "id": "1434695146643341_1753553868090799"
+      },
+      {
+         "message": "BURSWOOD - TRAILER CAMERA STILL THERE 29/7/2018 \n10.25pm\nSpeed camera trailer Graham Farmer Fwy after the Victoria Park Drive turn off heading eastbound. .\n\n*Admin assumes this trailer speed camera will remain for up to another 3 days or maybe less. It was set up two days ago.",
+         "created_time": 1532874610,
+         "full_picture": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/37947943_1753029771476542_2995340518994477056_n.jpg?_nc_cat=0&oh=c263abf86f6e767b348d658458b614b8&oe=5BD6D5E8",
+         "id": "1434695146643341_1753030134809839"
+      },
+      {
+         "message": "PERTH CBD \n8.27pm\nMotorcycle cops presumably doing RBT\u2019s on Mounts Bay Road in the CBD under the Mitchell Freeway bridge.",
+         "created_time": 1532867547,
+         "id": "1434695146643341_1752872191492300"
+      },
+      {
+         "message": "GLEN FORREST\n8.28pm\nThere\u2019s a speed camera on Great Eastern Hwy just before Glen Forrest. \ud83d\udc4d\ud83c\udffb",
+         "created_time": 1532867486,
+         "id": "1434695146643341_1752871038159082"
+      },
+      {
+         "message": "DOUBLEVIEW\n8.15pm\nSpeed camera on Scarborough Beach Road in Doubleview just before Huntriss Rd. :/",
+         "created_time": 1532867060,
+         "id": "1434695146643341_1752861894826663"
+      },
+      {
+         "message": "MITCHELL FWY - REVENUE RAISING BLITZ\n8.15pm\nAdmin has received reports of speed cameras all along the Mitchell Fwy at the following locations this evening: \n\n- Perth CBD interchange (both directions)\n- Karrinyup Rd off ramp 80km section (north)\n- Next to Hodges Drive (both directions) \n\n*Please let everyone know and note the two locations with both directions may stay until as late as midnight!!",
+         "created_time": 1532866997,
+         "id": "1434695146643341_1752860158160170"
+      },
+      {
+         "message": "WEST PERTH - LATE NIGHT CAMERAS BOTH SIDES\n8.15pm\nSpeed cameras both directions Mitchell Freeway through the CBD interchange. Both are well hidden. \n\n*Admin believes these two operators may remain until late 12.10am or earlier as well as those at Hodges Drive.",
+         "created_time": 1532866815,
+         "id": "1434695146643341_1752856618160524"
+      },
+      {
+         "message": "JOONDALUP - DUAL SPEED CAMERA SETUP\n8.15pm\nSpeed cameras getting both directions of traffic on Mitchell Fwy near Hodges Drive. \n\n*Admin assumes they both may be remaining late until 12.10am or earlier based off past experience. The northbound speed camera was sighted earlier and that link is given below:\n\nhttps://www.facebook.com/171302139596632/posts/1909290545797774/",
+         "created_time": 1532866697,
+         "full_picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/q89/p180x540/37942470_1752854411494078_1466332488035991552_n.jpg?_nc_cat=0&oh=af1db33cbb927f508e13d2825275684c&oe=5BC8280D",
+         "id": "1434695146643341_1752854534827399"
+      },
+      {
+         "message": "INNALOO\n8.11pm\nSpeed camera Mitchell Fwy northbound on the Cedric St / Karrinyup Rd off ramp in the 80km section.",
+         "created_time": 1532866629,
+         "id": "1434695146643341_1752853334827519"
+      },
+      {
+         "message": "HILLARYS - STILL THERE\n7.41pm\nRBT bus Hepburn Ave eastbound in Hillarys before Marmion Ave.",
+         "created_time": 1532866446,
+         "id": "1434695146643341_1752849241494595"
+      },
+      {
+         "message": "MERRIWA\n7.31pm\nUte speed camera Hester Ave in Merriwa going north up the hill near Baltimore Parade.",
+         "created_time": 1532866385,
+         "id": "1434695146643341_1752847818161404"
+      },
+      {
+         "message": "BENTLEY\n6.59pm\nSpeed camera in a white ute on Albany Highway in Bentley opposite Bentley Plaza Shops heading towards the city.",
+         "created_time": 1532863405,
+         "id": "1434695146643341_1752790194833833"
+      },
+      {
+         "message": "JOONDALUP\n5.36pm\nSpeed camera catching southbound traffic on Mitchell Fwy, near Hodges Dr.",
+         "created_time": 1532857389,
+         "id": "1434695146643341_1752682391511280"
+      },
+      {
+         "message": "HILLARYS\n5.07pm\nRBT bus Hepburn avenue going towards Marmion Avenue.",
+         "created_time": 1532855566,
+         "id": "1434695146643341_1752652771514242"
+      },
+      {
+         "message": "Hepburn ave Hillarys east bound booze bus",
+         "created_time": 1532855202,
+         "id": "1434695146643341_1752646664848186"
+      },
+      {
+         "message": "WELSHPOOL\n5.00PM\nSpeed camera Welshpool rd after Kewdale road. In a white ute heading towards Vic park.",
+         "created_time": 1532855079,
+         "id": "1434695146643341_1752644751515044"
+      },
+      {
+         "created_time": 1532853865,
+         "id": "1434695146643341_1752616054851247"
+      },
+      {
+         "message": "MIDLAND - ROAD CLOSED (CRASH)\n4.38pm\nRoad closed due to a crash at the Clayton St and Military Rd intersection. Cops and ambulance on site. Avoid at all costs.",
+         "created_time": 1532853805,
+         "id": "1434695146643341_1752615134851339"
+      },
+      {
+         "message": "Booze bus Hepburn ave heading away from Hillary\u2019s",
+         "created_time": 1532853744,
+         "id": "1434695146643341_1752614218184764"
+      },
+      {
+         "message": "CONNOLLY\n4.32pm\nSpeed camera Mitchell Freeway heading north after the Hodges Drive exit.",
+         "created_time": 1532853683,
+         "id": "1434695146643341_1752613261518193"
+      },
+      {
+         "message": "REGIONAL SOUTH - BRUNSWICK \n4.20pm\nSouth West traffic unit looking for speeders having just pulled someone over South Western Highway outside Brunswick Junction. Drive carefully!",
+         "created_time": 1532853619,
+         "full_picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/q84/p180x540/37967741_1752612328184953_2868491138103246848_n.jpg?_nc_cat=0&oh=c7ec7ded591c03e08694f5412ebe1b1f&oe=5BD1E21E",
+         "id": "1434695146643341_1752612324851620"
+      },
+      {
+         "message": "WEST PERTH\n4:00pm\nMitchell Freeway south bound where it goes to 80k. Tripod camera on right hand side under bridge, in the usual spot",
+         "created_time": 1532851735,
+         "id": "1434695146643341_1752579584854894"
+      },
+      {
+         "message": "PINJARRA\n3:49PM\nSpeed camera Pinjarra road head westbound just after Ravenswood hotel.",
+         "created_time": 1532850520,
+         "id": "1434695146643341_1752552254857627"
+      },
+      {
+         "message": "HILLARY'S\n3:47PM\nRBT setting up just now, Hepburn ave, east bound, just out of Hillary\u2019s",
+         "created_time": 1532850398,
+         "id": "1434695146643341_1752549954857857"
+      },
+      {
+         "message": "SCARBOROUGH\n3:32PM\nCops with handhelds in Scarborough 60 zone before it turns to 70 heading towards city beach\nAfter ventnor",
+         "created_time": 1532849486,
+         "id": "1434695146643341_1752534961526023"
+      },
+      {
+         "message": "MYALUP\n2.45PM\nSpeed camera heading northbound on left hand side on Forrest highway at forestry road turn off. Guessing average speed zone cameras still turned off.",
+         "created_time": 1532847724,
+         "id": "1434695146643341_1752507311528788"
+      },
+      {
+         "message": "MANDURAH\n2:15pm\nCamera in a Ute just after the Miami plaza in Mandurah",
+         "created_time": 1532846326,
+         "id": "1434695146643341_1752485968197589"
+      },
+      {
+         "message": "ARMADALE\n1.21pm\nSingle cop car RBT with two cops just after Armadale BP Fuel Station for motorists heading to the city. Admin assumes this is on Albany Hwy.",
+         "created_time": 1532843348,
+         "id": "1434695146643341_1752439194868933"
+      },
+      {
+         "message": "DUNCRAIG\n12:45pm\nSpeed camera on Lilburne rd next to duncraig high school getting people going towards Hepburn av",
+         "created_time": 1532840521,
+         "full_picture": "https://scontent.xx.fbcdn.net/v/t1.0-9/37956639_1752394264873426_3775527882432970752_n.jpg?_nc_cat=0&oh=db7f49f13531cc5261cc4d57e2234fe5&oe=5BD36861",
+         "id": "1434695146643341_1752394411540078"
+      },
+      {
+         "message": "EAST PERTH\n12:43pm\nRbt on newcastle street 200m away from the intersection of lord street",
+         "created_time": 1532840454,
+         "id": "1434695146643341_1752393274873525"
+      },
+      {
+         "message": "OSBORNE PARK - NOW GONE\n12.34pm\nThis speed camera is now gone but was spotted on Jon Sanders Drive eastbound in Osborne Park next to a white vehicle. It was spotted 10.30am.",
+         "created_time": 1532840392,
+         "id": "1434695146643341_1752392201540299"
+      },
+      {
+         "message": "JANE BROOK\n12:34pm\nNot sure if you got this one, crash on Toodyay road heading East at the red circle",
+         "created_time": 1532840330,
+         "full_picture": "https://scontent.xx.fbcdn.net/v/t1.0-9/37884647_1752391094873743_6171016935107461120_n.jpg?_nc_cat=0&oh=d5b061efdfb7bdae664176a8fe6d20b5&oe=5BC8CB3D",
+         "id": "1434695146643341_1752391211540398"
+      },
+      {
+         "message": "MAYLANDS - POSSIBLE SPEED CAMERA \n12.34pm\nPossible speed camera Railway Parade eastbound after Meltham Train Station. Can someone confirm for certain?",
+         "created_time": 1532840264,
+         "id": "1434695146643341_1752390034873849"
+      },
+      {
+         "message": "SAFETY BAY\n12:32pm\n1 cop car doing rbt on warnbro sound ave in between willmont and Waikiki drive heading into rockingham",
+         "created_time": 1532840202,
+         "full_picture": "https://scontent.xx.fbcdn.net/v/t1.0-9/37951120_1752388831540636_3062844537165578240_n.jpg?_nc_cat=0&oh=efb42c676108b7fb2d4777d52d6d750d&oe=5C08238D",
+         "id": "1434695146643341_1752388921540627"
+      },
+      {
+         "message": "GOSNELLS - STILL THERE\n11.55am\nSpeed camera Albany Hwy in Gosnells nabbing both sides.",
+         "created_time": 1532840136,
+         "full_picture": "https://scontent.xx.fbcdn.net/v/t1.0-9/37987925_1909034385823390_1161879311737683968_n.jpg?_nc_cat=0&oh=eb3bccfccf11ce0f61f2478627b4b790&oe=5C05AF44",
+         "id": "1434695146643341_1752387774874075"
+      },
+      {
+         "message": "EAST PERTH\n12:22pm\nRBT on lord Street heading South West after Coolgardie",
+         "created_time": 1532840075,
+         "full_picture": "https://scontent.xx.fbcdn.net/v/t1.0-9/37928907_1752386644874188_5436334436637474816_n.jpg?_nc_cat=0&oh=66cc4b689c22710399ea658c02281a2d&oe=5BD6ADCF",
+         "id": "1434695146643341_1752386768207509"
+      },
+      {
+         "message": "REGIONAL SOUTH- NORSEMAN\n12:20pm\nTruck accident on the eyre highway as per the photos, the road is blocked so use caution.",
+         "created_time": 1532840009,
+         "full_picture": "https://scontent.xx.fbcdn.net/v/t1.0-9/37958066_1752385684874284_2444078494435508224_n.jpg?_nc_cat=0&oh=fb92623f9db1592e3e3034eabef345a4&oe=5C08D5E3",
+         "id": "1434695146643341_1752385774874275"
+      },
+      {
+         "message": "BUTLER - DELAYED POST \n11.48am\nSingle cop car RBT on Lukin Srive going towards Connolly Drive next to Irene McCormack Reserve. \n\n*Admin apologises for the delays and unsure is still there 12.49pm.",
+         "created_time": 1532839943,
+         "id": "1434695146643341_1752384754874377"
+      },
+      {
+         "message": "UPPER SWAN\n11:55am\nSpeed camera on great northern hwy Just before truck assembly bay",
+         "created_time": 1532839882,
+         "full_picture": "https://scontent.xx.fbcdn.net/v/t1.0-9/37925467_1752383628207823_6618850091274862592_n.jpg?_nc_cat=0&oh=408bb14ad849a0e2e7d9fe16e5b6ec87&oe=5C069F57",
+         "id": "1434695146643341_1752383724874480"
+      },
+      {
+         "message": "WILLAGEE - DELAYED POST\n11:47am\nCamera in the back of an Isuzu ute on Leach Highway about 300m west of the stock Rd intersection. Catching eastbound traffic, easy spot",
+         "created_time": 1532839816,
+         "id": "1434695146643341_1752382631541256"
+      },
+      {
+         "message": "REGIONAL EAST - WOOTTATING \n11.46am\nGreat Southern Hwy near Lakes Rd halfway to York left hand side just before Inkpen Rd both directions. \ud83d\ude0a",
+         "created_time": 1532839753,
+         "id": "1434695146643341_1752381658208020"
+      },
+      {
+         "message": "MUNDARING\n11.30am\nHandhelds on Mundaring Weir Rd in Mundaring.",
+         "created_time": 1532835320,
+         "id": "1434695146643341_1752305061549013"
+      },
+      {
+         "message": "UPPER SWAN - STILL THERE\n11.20am\nSpeed camera in its usual spot north of Gingers roadhouse and before Apple St on Great Northern Highway nabbing northbound traffic",
+         "created_time": 1532835198,
+         "full_picture": "https://scontent.xx.fbcdn.net/v/t1.0-9/37954459_1909030295823799_5666451564517130240_n.jpg?_nc_cat=0&oh=8b758979061b20d89d5240d98c66af9f&oe=5BD0854D",
+         "id": "1434695146643341_1752303061549213"
+      },
+      {
+         "message": "HAZELMERE - TRAFFIC LIGHTS OUT\n10.06am\nTraffic lights out at the Great Eastern Hwy Bypass and Roe Hwy intersection.\n\n*This report was overlooked earlier by the other admin. Not sure if they have since been restored.",
+         "created_time": 1532835076,
+         "id": "1434695146643341_1752300828216103"
+      },
+      {
+         "message": "FORRESTDALE\n10.58am\nHandhelds on Anstey Rd in Forrestdale.",
+         "created_time": 1532834894,
+         "id": "1434695146643341_1752297941549725"
+      },
+      {
+         "message": "CHITTERING - POSSIBLE CRASH\n10.41am\nPossible accident on Chittering Rd or surrounding roads in Lower Chittering as emergency vehicles responding. Anybody have any more information?",
+         "created_time": 1532834833,
+         "id": "1434695146643341_1752297021549817"
+      },
+      {
+         "message": "GOSNELLS\n10:50am\nAt 10:50 camera deployed outside of hidden white hilux. Albany Hwy as entering Gosnells township in the usual spot under the big tree. Facing city bound traffic.  Looks like the rig that was up on Brookton hwy earlier.",
+         "created_time": 1532833740,
+         "id": "1434695146643341_1752274141552105"
+      },
+      {
+         "message": "KARRAKATTA - PROBABLE SPEED CAMERA\n10.25am\nSus looking tradie van parked outside of Karrakatta cemetery, I didn't get a good look though.\n\nOn Railway road heading eastbound.",
+         "created_time": 1532831312,
+         "id": "1434695146643341_1752234314889421"
+      },
+      {
+         "message": "ATWELL\n10.20am\nCamera in Atwell on Tapper rd just at Nancarrow way.",
+         "created_time": 1532831190,
+         "id": "1434695146643341_1752232221556297"
+      },
+      {
+         "message": "MAIDA VALE\n10.08am\nCrash in right hand turn lane at Roe highway and Kalamunda Rd heading north.",
+         "created_time": 1532831129,
+         "id": "1434695146643341_1752231138223072"
+      },
+      {
+         "message": "HAZELMERE\n10.08am\nLights out at Great Easten highway bypass and Roe highway.",
+         "created_time": 1532831068,
+         "id": "1434695146643341_1752230194889833"
+      },
+      {
+         "message": "YOKINE - CRASH \n10.20AM\nA car has crashed into a wall at the corner of Flinders Street and Blythe Avenue.  Northbound  has been closed .",
+         "created_time": 1532831006,
+         "id": "1434695146643341_1752229141556605"
+      },
+      {
+         "message": "PADBURY - STILL THERE\n10.20AM\nSpeed camera still there on the Mitchell Freeway getting northbound traffic just after Hepburn Avenue.",
+         "created_time": 1532830823,
+         "full_picture": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/37976132_1752226004890252_9060860163820355584_o.jpg?_nc_cat=0&oh=c8a742ce9c9a067477ea3d9cd6fabebd&oe=5C064D21",
+         "id": "1434695146643341_1752225994890253"
+      },
+      {
+         "message": "UPPER SWAN\n09.47am\nSpeed camera in usual spot, north of Gingers and before Apple st, on Great Northern Highway nabbing north bound traffic",
+         "created_time": 1532829245,
+         "id": "1434695146643341_1752199411559578"
+      },
+      {
+         "message": "LEXIA\n09.35am\nHandhelds on Gnangara Rd",
+         "created_time": 1532828946,
+         "full_picture": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/37925107_1752194358226750_3664974466456223744_o.jpg?_nc_cat=0&oh=9eb056cafec281a8d0bab6d473454eec&oe=5C0B59BA",
+         "id": "1434695146643341_1752194468226739"
+      },
+      {
+         "message": "SUBURB? - MORE INFO NEEDED\n9.02am\nHandhelds on Gnangara Rd.\n\n*Admin has not been provided any other info. Please make sure to provide us with road name, suburb and landmark so we can easily pinpoint location. Cheers!",
+         "created_time": 1532828031,
+         "id": "1434695146643341_1752178708228315"
+      },
+      {
+         "message": "MOUNT NASURA\n09.00AM\nSpeed camera in back of white hilux. Brookton hwy before Ellen road in Mount Nasura. It's in plain view but on apex bend just as you enter 60 km zone facing city bound traffic.",
+         "created_time": 1532826211,
+         "id": "1434695146643341_1752150034897849"
+      },
+      {
+         "message": "BEACONSFIELD\n08.36am\nCamera/car Carrington St near Rennie Cr South. He on the North Side. Beaconsfield near bushes 60 k zone.",
+         "created_time": 1532824815,
+         "id": "1434695146643341_1752127874900065"
+      },
+      {
+         "message": "PADBURY\n08.33Am\nFFC on Mitchell freeway after whitfords ave on ramp heading north\n\n08.30am\nSpeed camera on Mitchell Freeway northbound just after Whitfords Ave exit.",
+         "created_time": 1532824693,
+         "id": "1434695146643341_1752125898233596"
+      },
+      {
+         "message": "CANNINGTON\n06.30am\nCar crash on Manning Rd while heading toward Albany Highway. \n\n*I'm presuming it's between Leach hwy and Albany Highway.",
+         "created_time": 1532819848,
+         "full_picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/q86/p180x540/37823720_1752046114908241_6917227984793370624_o.jpg?_nc_cat=0&oh=8bc494d6e68888800d4ff19f65029f1c&oe=5BD67D81",
+         "id": "1434695146643341_1752046304908222"
+      },
+      {
+         "message": "***DAILY LOCATIONS - SUNDAY 29 JULY 2018***\n\nGood morning everyone!! Here are Sunday\u2019s listed speed camera locations. PLEASE READ THIS ENTIRE POST FOR USEFUL INFO!!! IT MAY HELP YOU AVOID GETTING INFRINGED!! \n\nThe attached list is a useful guide so make good use of it and share the list with everyone you know. The more of you who view the list on a daily basis the more beneficial it will be to everyone. Note the following: \n\n- There are a total of 44 locations listed today.\n\n- Be on the look out for occasional late night double speed camera set up. Late nights tend to stay until 12.10am from past experience. These set up locations don\u2019t necessarily align with the attached list so be mindful of that. \n\n- Also look out for possible early set ups on rural roads.\n\n- Be advised that you may still come across speed cameras that aren't on the attached list during the day, particularly on rural roads. The list is a fantastic guide for many speed camera locations but isn't completely exclusive. \n\n- Keep your eyes peeled for any confirmed speed camera sightings, traffic police activity, crashes or other traffic alerts and message them to us directly. We greatly appreciate your reports and rely on YOUR sightings to inform everyone else. \n\n- Having said that, enjoy your day, drive safely and don't get pinged by any speed traps! Let's conclude the weekend without incurring any infringements!\n\n*These locations can be found from the link below: \n\nhttps://www.police.wa.gov.au/Traffic/Cameras/Camera-locations",
+         "created_time": 1532811713,
+         "full_picture": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/37913430_1751916591587860_6468355051403345920_n.jpg?_nc_cat=0&oh=751174fbe6133bb264a0ad3f44607285&oe=5BCB3512",
+         "id": "1434695146643341_1751916581587861"
+      },
+      {
+         "message": "BURSWOOD - TRAILER CAMERA STILL THERE 29/7/2018 \n12.35am\nSpeed camera trailer Graham Farmer Fwy after the Victoria Park Drive turn off heading eastbound. .\n\n*Admin assumes this trailer speed camera will remain for up to another 4 days or maybe less. It was only set up yesterday.",
+         "created_time": 1532795954,
+         "full_picture": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/37976070_1751592484953604_1855316659443597312_n.jpg?_nc_cat=0&oh=27e81fe826e3471fafa5aa88149fe9fa&oe=5C0F9709",
+         "id": "1434695146643341_1751592911620228"
+      },
+      {
+         "message": "COCKBURN\n11:00pm\nSingle car rbt on beeliar dve after gateway shopping centre heading towards last drop beeliar",
+         "created_time": 1532790474,
+         "id": "1434695146643341_1751477698298416"
+      },
+      {
+         "message": "BUTLER\n10:35pm\nCrash after police pursuit marmion ave x Lukin drive southbound lane closed and rubbish all over road \n6 police cars in attendance",
+         "created_time": 1532790230,
+         "id": "1434695146643341_1751472554965597"
+      },
+      {
+         "message": "BUTLER - POLICE PURSUIT CRASH\n9.58pm\nCrash after a police pursuit on Marmion Ave at Lukin Drive southbound. Lane closed and rubbish all over the road. 6 police cars in attendance\n\n*Admin apologises for the delay in posting but assumes the road is still closed as at 10.58pm.",
+         "created_time": 1532790046,
+         "id": "1434695146643341_1751468848299301"
+      },
+      {
+         "message": "NORTHBRIDGE\n10:30pm\nCops have rbt set up on William st in Northbridge heading towards city",
+         "created_time": 1532789442,
+         "full_picture": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/37917088_1751454981634021_5848261958268092416_n.jpg?_nc_cat=0&oh=6250578fb09933030b0819cccf4b0939&oe=5C0EFE21",
+         "id": "1434695146643341_1751455111634008"
+      },
+      {
+         "message": "BYFORD\n9:20pm\nPatrol car has a car pulled up on Abernathy road searching the car beware all. Drive safe",
+         "created_time": 1532784633,
+         "id": "1434695146643341_1751350881644431"
+      },
+      {
+         "message": "ORANGE GROVE - STILL THERE\n8.59pm\nSpeed camera Tonkin Hwy southbound after Kelvin Road.",
+         "created_time": 1532782928,
+         "id": "1434695146643341_1751310648315121"
+      },
+      {
+         "message": "BECKENHAM - POSSIBLE LATE NIGHT CAMERAS BOTH SIDES\n7.07PM\nSpeed camera on Roe Hwy in the bush strip in the middle after Kenwick Link heading towards Midland.\n\n*Admin was also told of another speed camera in a similar spot nabbing westbound drivers. These operators if both present will then remain until 12.10am the latest based off past experience.",
+         "created_time": 1532780429,
+         "full_picture": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/37826996_1907809542612541_1924501315497492480_n.jpg?_nc_cat=0&oh=7530e6166776898ff672e80ba84fcef5&oe=5C088F43",
+         "id": "1434695146643341_1751262438319942"
+      },
+      {
+         "message": "BURSWOOD - TRAILER CAMERA STILL THERE 28/7/2018 \n8.10pm\nSpeed camera trailer Graham Farmer Fwy after the Victoria Park Drive turn off heading eastbound. .\n\n*Admin assumes this trailer speed camera will remain for up to another 4 days or maybe less. It was only set up yesterday.",
+         "created_time": 1532780075,
+         "full_picture": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/37898681_1751253718320814_7566753681354260480_n.jpg?_nc_cat=0&oh=66a68d1c7e00633bcc80ff1d62284a28&oe=5C0F5C62",
+         "id": "1434695146643341_1751254068320779"
+      },
+      {
+         "message": "EAST PERTH\n8.08pm\nRBT on Hay St in East Perth near the WACA heading away from the city.",
+         "created_time": 1532779937,
+         "id": "1434695146643341_1751251461654373"
+      },
+      {
+         "message": "BECKENHAM\n7.56pm\nSpeed camera catching people heading to Carousel just before Furniture Spot on Albany Hwy between Beckenham St and Clapham St.",
+         "created_time": 1532779394,
+         "full_picture": "https://scontent.xx.fbcdn.net/v/t1.0-9/37893713_1751241008322085_5060637352150433792_n.jpg?_nc_cat=0&oh=ab4b96469a6e33dd4975358a0cb9ba7c&oe=5BD9A485",
+         "id": "1434695146643341_1751241138322072"
+      },
+      {
+         "message": "CANNING VALE - STILL THERE\n7.40pm\nWhite ute with a speed camera along Nicholson Road near Nicholson's Bar and Grill restaurant.",
+         "created_time": 1532779204,
+         "full_picture": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/37944284_1751237491655770_4912440051062800384_n.jpg?_nc_cat=0&oh=ebbad311c04e0f8462aa8f1f431693ad&oe=5C065CFA",
+         "id": "1434695146643341_1751237481655771"
+      },
+      {
+         "message": "MANDURAH\n7.41pm\nTwo cop cars conducting RBT's on Mandurah Terrace outside Silversands Tavern.",
+         "created_time": 1532778595,
+         "id": "1434695146643341_1751226274990225"
+      },
+      {
+         "message": "WILSON - STILL THERE\n7.16pm\nVery well hidden white ute with a speed camera in the bushes right near the 70 sign on Leach Hwy as you come off Shelley Bridge heading eastbound.",
+         "created_time": 1532776961,
+         "full_picture": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/37888054_1751193001660219_3767408856645238784_o.jpg?_nc_cat=0&oh=27b199f82c3ad42a23c4efce636ec54d&oe=5C077D64",
+         "id": "1434695146643341_1751193114993541"
+      },
+      {
+         "message": "BECKENHAM\n7.07PM\nSpeed camera being set up on Roe Hwy in the bush strip in the middle after Kenwick Link heading towards Midland.",
+         "created_time": 1532776467,
+         "id": "1434695146643341_1751184174994435"
+      },
+      {
+         "message": "LEEDERVILLE - PATROLS\n7.07pm\nSeems to be a higher than usual police presence in Leederville. Have seen a marked cop car and two motorcycle cops  stop people on Oxford St. Admin assumes they may be patrolling the area tonight. Drive carefully!",
+         "created_time": 1532776405,
+         "id": "1434695146643341_1751183014994551"
+      },
+      {
+         "message": "PERTH - ROAD HAZARD\n7.01pm\nRed and silver VZ Holden Commodores drag racing in and out carsheavy on Kwinana Fwy near the Narrows Bridge northbound. Please exercise vigilance and keep an eye out for these two drivers.",
+         "created_time": 1532776284,
+         "id": "1434695146643341_1751180928328093"
+      },
+      {
+         "message": "ARMADALE\n6.57pm\nBooze bus Armadale Rd near the lights heading towards Haynes.",
+         "created_time": 1532776222,
+         "id": "1434695146643341_1751179788328207"
+      },
+      {
+         "message": "ILUKA\n6.56pm\nSingle cop car RBT on Shenton Ave after Marmion Ave in Iluka heading towards the coast.",
+         "created_time": 1532776161,
+         "id": "1434695146643341_1751178681661651"
+      },
+      {
+         "message": "MARTIN\n6.42pm\nFront facing speed camera hidden in bushes heading east on Tonkin highway 300 metres before Gosnells Road East.",
+         "created_time": 1532775614,
+         "id": "1434695146643341_1751168304996022"
+      },
+      {
+         "message": "OSBORNE PARK\n6.31pm\nRBT on Main St after Hutton St in front of Liquorland.",
+         "created_time": 1532775492,
+         "id": "1434695146643341_1751165801662939"
+      },
+      {
+         "message": "HILLARYS\n6.37pm\nLooks like a single cop car RBT for those coming out of Hillarys Boat Harbour.",
+         "created_time": 1532775431,
+         "id": "1434695146643341_1751164588329727"
+      },
+      {
+         "message": "FORRESTFIELD - ON THE MOVE\n6.04pm\nBooze bus was spotted going southbound on Tonkin Hwy in Forrestfield. Where will it set up?",
+         "created_time": 1532775308,
+         "id": "1434695146643341_1751162068329979"
+      },
+      {
+         "message": "CANNING VALE\n6.05pm\nSpeed camera Nicholson Rd in Canning Vale opposite Ruth Ave.\n\n*Admin apologises for the slightly delayed post but assumes they may still be there.",
+         "created_time": 1532775133,
+         "full_picture": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/37850654_1751158678330318_8379378746641088512_n.jpg?_nc_cat=0&oh=7625a5279dab3aaab6bd8b0d7c836441&oe=5BD0B337",
+         "id": "1434695146643341_1751158838330302"
+      },
+      {
+         "message": "ORELIA\n5.50pm\nSpeed camera in a white van on Gilmore Avenue just before Summerton Road. Poor fella in front got flashed \ud83d\ude21",
+         "created_time": 1532772148,
+         "id": "1434695146643341_1751103161669203"
+      },
+      {
+         "message": "ORANGE GROVE\n5.50pm\nLooks like camera setting up Tonkin Hwy southbound after Kelvin Road",
+         "created_time": 1532771783,
+         "id": "1434695146643341_1751096805003172"
+      },
+      {
+         "message": "BALLAJURA\n5.22PM\nBreath testing Bellefin drive southbound before Marshall Rd - BALLAJURA",
+         "created_time": 1532770087,
+         "id": "1434695146643341_1751068525006000"
+      },
+      {
+         "message": "BUTLER - DELAYED POST CAR STOLEN\n4:30PM\nThis vehicle was stolen today from Butler, this was posted on another page. Not sure of the rego, please keep an eye out as the owner had car for a short time. Police informed already.",
+         "created_time": 1532770026,
+         "full_picture": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/37923494_1751067421672777_7458738440725594112_n.jpg?_nc_cat=0&oh=0158c1a426af6de0f86d45bee3322916&oe=5BCEF5C5",
+         "id": "1434695146643341_1751067558339430"
+      },
+      {
+         "message": "THE VINES\n5.00PM\nSecurity hut RBT in The vines.",
+         "created_time": 1532768741,
+         "id": "1434695146643341_1751046228341563"
+      }
+   ],
+   "paging": {
+      "cursors": {
+         "before": "Q2c4U1pXNTBYM0YxWlhKNVgzTjBiM0o1WDJsa0R5VXhORE0wTmprMU1UUTJOalF6TXpReE9pMDRNRFUxTlRVMk5qazVPRFE0TkRVME9EZAzJEd3hoY0dsZAmMzUnZAjbmxmYVdRUElURTBNelEyT1RVeE5EWTJORE16TkRGZAk1UYzFNemcyTmpVNE1UTTVNamcyTVE4RWRHbHRaUVpiWG02Y0FRPT0ZD",
+         "after": "Q2c4U1pXNTBYM0YxWlhKNVgzTjBiM0o1WDJsa0R5VXhORE0wTmprMU1UUTJOalF6TXpReE9pMHpOemt4TkRZAMU56RXhNemswT1RRNU9ESTBEd3hoY0dsZAmMzUnZAjbmxmYVdRUElURTBNelEyT1RVeE5EWTJORE16TkRGZAk1UYzFNVEEwTmpJeU9ETTBNVFUyTXc4RWRHbHRaUVpiWERIbEFRPT0ZD"
+      },
+      "next": "https://graph.facebook.com/v3.0/1434695146643341/feed?access_token=EAAbbxKxFEp8BAGHalPtaM6ZCZCVAJxV5OMakPBLGghTI4JRFtOrr5g7Rf7E7kj4KrjRvLpBgKBh9QXcrWBop22pOLKVlyC4uh8DeD7KMJO6S4p1WBTScjloEzxkaZB4h9BatoT48RZBLpnQko8wWULxZAgsJpuFBcZCru9EpZBLRAZDZD&date_format=U&pretty=1&fields=message\u00252Ccreated_time\u00252Cfull_picture&limit=100&after=Q2c4U1pXNTBYM0YxWlhKNVgzTjBiM0o1WDJsa0R5VXhORE0wTmprMU1UUTJOalF6TXpReE9pMHpOemt4TkRZAMU56RXhNemswT1RRNU9ESTBEd3hoY0dsZAmMzUnZAjbmxmYVdRUElURTBNelEyT1RVeE5EWTJORE16TkRGZAk1UYzFNVEEwTmpJeU9ETTBNVFUyTXc4RWRHbHRaUVpiWERIbEFRPT0ZD"
+   }
 }
